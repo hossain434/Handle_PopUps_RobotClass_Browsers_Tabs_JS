@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22172" started-at="2018-07-29T09:25:43Z" finished-at="2018-07-29T09:26:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22172" started-at="2018-07-29T09:25:43Z" finished-at="2018-07-29T09:26:05Z">
+      <class name="Tab_Browser_PopUps.HandleBrowsersPopUps">
+        <test-method status="PASS" signature="testRobot()[pri:0, instance:Tab_Browser_PopUps.HandleBrowsersPopUps@1c7cbad]" name="testRobot" duration-ms="22159" started-at="2018-07-29T02:25:43Z" finished-at="2018-07-29T02:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRobot -->
+      </class> <!-- Tab_Browser_PopUps.HandleBrowsersPopUps -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
